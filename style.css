@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Cabeçalho_bloco_1{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #E3DCD7;
+    align-items: center;
+    border:1px solid;
+}
+
+.Botões_cabeçalho{
+    color: rgb(0, 0, 0);
+}
+
+.bloco_2{
+    border:1px solid;
+}
+
+.Apresentação{
+    background-color: #B967C7;
+    padding: 30px 20px;
+}
+
+.Sobre_mim{
+    background-color: #E3DCD7;
+    padding: 25px 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Fotos{
+    display: inline-block;
+    margin: 0 20px;
+}
+
+
+.Minha_foto{
+    border:1px solid;
+    width: 30%;
+    margin: 0 20px;
+}
+
+.Foto_Paulina{
+    width: 50%;
+    border:1px solid;
+}
+
+.bloco_3{
+    background-color: #B967C7;
+    align-content: center;
+    display: flex;
+    justify-content: space-around;
+    border:1px solid;
+}
+
+.Foto_OBMEP{
+    width: 80%;
+}
+
+.Foto_Forninho{
+    width: 80%;
+}
+
+.Foto_Pilha{
+    width: 80%;
+}
+
+.bloco_4{
+    background-color: #E3DCD7;
+    border:1px solid;
+    justify-content: space-between;
+}
+
+.Habilidades{
+    padding: 35px 8px;
+
+}
+
+.Contatos{
+    text-align: right;
+    padding: 5px 5px;
+}
+
+.Insta{
+  width: 4%;
+}
+
+.Zap{
+    width: 4%;
+}
+
+.Face{
+    width: 4%;
+}
